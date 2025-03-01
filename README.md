@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Data Scientist with a robust background as a Senior Investigations Advisor at Amazon, where I engineered data collection and<br> ETL processes, and developed automated reports and dashboards. Currently pursuing a Master’s in Data Science and Analytics, with<br> a keen passion for machine learning and 1+ years of hands-on experience in deploying models to drive actionable insights and<br> operational efficiency.
+ Data Analyst with a robust background in Data Analysis, where I engineered data collection and<br> ETL processes, and developed automated reports and dashboards. Currently pursuing a Master’s in Data Science and Analytics, with<br> a keen passion for machine learning and 1+ years of hands-on experience in deploying models to drive actionable insights and<br> operational efficiency.
 
 
 ## 🌐 Socials:
